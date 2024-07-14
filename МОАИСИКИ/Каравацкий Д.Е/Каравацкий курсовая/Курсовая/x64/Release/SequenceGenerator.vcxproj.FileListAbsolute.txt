@@ -1,0 +1,3 @@
+C:\Users\levus\source\repos\SequenceGenerator\SequenceGenerator\x64\Release\SequenceGenerator.vcxproj.AssemblyReference.cache
+C:\Users\levus\source\repos\SequenceGenerator\SequenceGenerator\x64\Release\SequenceGenerator.GeneratorUI.resources
+C:\Users\levus\source\repos\SequenceGenerator\SequenceGenerator\x64\Release\SequenceGenerator.vcxproj.GenerateResource.cache
